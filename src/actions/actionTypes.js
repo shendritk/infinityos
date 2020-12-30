@@ -1,0 +1,14 @@
+export const FM_ADD_FOLDER = "FM_ADD_FOLDER";
+export const FM_ADD_FOLDER_PART_TWO = "FM_ADD_FOLDER_PART_TWO";
+export const FM_REMOVE_FOLDER = "FM_REMOVE_FOLDER";
+export const FM_REMOVE_FOLDER_PART_TWO = "FM_REMOVE_FOLDER_PART_TWO";
+export const FM_EDIT_FOLDER = "FM_EDIT_FOLDER";
+
+export const FM_ADD_FILE = "FM_ADD_FILE";
+export const FM_REMOVE_FILE = "FM_REMOVE_FILE";
+export const FM_EDIT_FILE = "FM_EDIT_FILE";
+
+export const PLAY_SONG = "PLAY_SONG"
+
+export const CREATE_USER = "CREATE_USER"
+export const CREATE_USER_PASSWORD = "CREATE_USER_PASSWORD"
