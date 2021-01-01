@@ -10,4 +10,4 @@ This website was implemented using:
 - Material UI and CSS in JS
 
 _Note:_ Make sure to try the terminal.
-![alt text](<a href="https://ibb.co/gZKh80B"><img src="https://i.ibb.co/k2CvTLW/infinity-Os-Preview.png" alt="infinity-Os-Preview" border="0"></a>)
+![InfinityOS Preview](https://i.ibb.co/k2CvTLW/infinity-Os-Preview.png)
